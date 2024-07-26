@@ -1,4 +1,4 @@
-# 問題:Classical Cipher
+# 問題:River
 ## 概要
 JPEGのExif情報を確認し，写真の川の名前を特定する．
 

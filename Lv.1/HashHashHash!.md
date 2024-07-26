@@ -1,4 +1,4 @@
-# 問題:Classical Cipher
+# 問題:HashHashHash!
 ## 概要
 SHA1で作成されたハッシュ値をアンハッシュする．
 

@@ -1,4 +1,4 @@
-# 問題:Classical Cipher
+# 問題:pcap
 ## 概要
 パケット解析をし，フラグを得る．
 
